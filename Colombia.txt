@@ -1,3 +1,4 @@
+
 **GIT Y GIT HUB**
 EL tema que más me ha gustado hasta el momento el Git y Git Hub, ya que hace algunos años lo ví,y la verdad no me quedó muy claro, creo que en esta oportunidad me he desafiado a mí misma y ya lo manejo, muy bien.
-![Esta es una imagen](index.jpeg)
+![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
