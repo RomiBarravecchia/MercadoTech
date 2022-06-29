@@ -1,7 +1,7 @@
 
 # MercadoTech
 
-Daniela George <3 *corazón* 
+Daniela George  :heartpulse: 
 Nahual Arias
 Nicolas Folco
 Luis Cedeño
